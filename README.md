@@ -1,5 +1,7 @@
 # AngularTourOfHeroes
 
+This project was created by following the tutorial at https://angular.io/tutorial. I created this project to become more familiar with Angular.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.6.
 
 ## Development server
